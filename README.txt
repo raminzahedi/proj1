@@ -1,7 +1,5 @@
 # proj1
 
-
-
 python main.py perceptron iris.csv
 python main.py adaline iris.csv
 python main.py sgd iris.csv
